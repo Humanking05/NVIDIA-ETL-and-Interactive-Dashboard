@@ -4,15 +4,15 @@ Hi 👋, I'm Hassan Rafindadi
 
 A passionate Data Analyst, BI Analyst & Data Engineer
 
-- 🔭 I’m currently working on NVIDIA-ETL-and-Interactive-Dashboard](https://github.com/Humanking05/NVIDIA-ETL-and-Interactive-Dashboard)
+- 🔭 I’m currently working on NVIDIA-ETL-and-Interactive-Dashboard (https://github.com/Humanking05/NVIDIA-ETL-and-Interactive-Dashboard)
 
 - 🌱 I’m currently learning **data pipelines with python & airtable**
 
-- 👯 I’m looking to collaborate on Creating pipelines with prefect](https://github.com/Humanking05/NVIDIA-ETL-and-Interactive-Dashboard)
+- 👯 I’m looking to collaborate on Creating pipelines with prefect (https://github.com/Humanking05/NVIDIA-ETL-and-Interactive-Dashboard)
 
 - 🤝 I’m looking for help with work opportunities, collaboration and mentorship](https://github.com/Humanking05/NVIDIA-ETL-and-Interactive-Dashboard)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hassan-rafindadi-8704a41b4?
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/hassan-rafindadi-8704a41b4?
 
 - 💬 Ask me about **Data Analysis, BI Analysis & Data Engineering**
 
